@@ -16,5 +16,10 @@ Output: Adds a Recommended Permissions column with a list of predicted access fo
 
 
 
+Video Demonstration:
+https://github.com/user-attachments/assets/c8937fbf-a4d6-4d40-8ee2-6844d9f002e8
+
+
+
 
 Tools used: Python, pandas, scikit-learn (Random Forest, MultiOutputClassifier), basic NLP-style fuzzy matching
